@@ -41,6 +41,12 @@ To sustain and expand the project, we needed to raise funds to cover essential c
 
 4. **Clinical Team Monitoring (Funding Required)**: A 24/7 clinical team was envisioned to continuously monitor patient data, providing medical advice and preventive care interventions. Due to funding constraints, this component remained underdeveloped.
 
+### Documentation and Resources
+
+- **[Documentation Folder](./documentation)**: Detailed documentation on the project, including technical specs, user guides, and development notes.
+- **[Project Presentation and Financial Plan](./project-presentation)**: Includes the project’s presentation files and detailed financial planning.
+
+
 ### Patient Cycle Overview
 
 1. The patient measures vital signs using the Smart Check device, which transfers data via Bluetooth to the mobile app.
@@ -63,6 +69,6 @@ This repository is now available for anyone who shares our passion for making he
 ### Additional Information
 
 - **YouTube Channel**: For more insights and demos, visit our [YouTube channel](https://www.youtube.com/@SmartHealthTracker).
-- **Contact Us**: For more details or access to source codes, please reach out at **[ehalalworld@gmail.com](mailto:ehalalworld@gmail.com)**.
+- **Contact Us**: For more details or access to source codes, please reach out at **[ehalalworld[at]gmail[dot]com](mailto:ehalalworld[at]gmail[dot]com)**.
   
 > **Note**: Due to contractual obligations with our medical device contractor, we are unable to share the API used in our app.
