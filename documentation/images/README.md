@@ -4,10 +4,10 @@ This folder contains images related to the Smart Health application, showcasing 
 
 ## Contents
 
-1. **[Smart Health Application: Diabetes Diary Feature](https://github.com/elmalla/smart-health-monitor/blob/main/documentation/images/Smart_Health_Application_Diabetes_Diary_Feature.png)**  
+1. **[Smart Health Application: Diabetes Diary Feature](./Smart_Health_Application_Diabetes_Diary_Feature.png)**  
    This image displays the Diabetes Diary feature, demonstrating how clinicians can monitor and track patient glucose levels and trends, providing essential insights for diabetes management.
 
-2. **[Smart Health Application: Diabetes Diary Entries](https://github.com/elmalla/smart-health-monitor/blob/main/documentation/images/Smart_Health_Application_Diabetes_Diary_Entries.png)**  
+2. **[Smart Health Application: Diabetes Diary Entries](./images/Smart_Health_Application_Diabetes_Diary_Entries.png)**  
    Shows detailed diabetes diary entries, allowing patients to log blood glucose readings with specific time tags such as before or after meals.
 
 3. **[Smart Health Application: Clinician Profile Information Update](https://github.com/elmalla/smart-health-monitor/blob/main/documentation/images/Smart_Health_Application_Clinician_Profile_Information_Update.png)**  
@@ -55,7 +55,7 @@ This folder contains images related to the Smart Health application, showcasing 
 17. **[Smart Health Application: File Access Permissions](https://github.com/elmalla/smart-health-monitor/blob/main/documentation/images/Smart_Health_Application_File_Access_Permissions.png)**  
     Highlights the app’s file access permissions, explaining the importance of managing data privacy and security.
 
-18. **[Smart Health Application: Live Patient Monitoring Screen](https://github.com/elmalla/smart-health-monitor/blob/main/documentation/images/Smart_Health_Application_Live_Patient_Monitoring_Screen.png)**  
+18. **[Smart Health Application: Live Patient Monitoring Screen](./Smart_Health_Application_Live_Patient_Monitoring_Screen.png)**  
     Displays the live monitoring interface, providing real-time updates on patient health metrics for proactive care management.
 
 ## How to Use These Images
