@@ -64,11 +64,19 @@ Due to our inability to sustain the project financially, we have made the diffic
 
 This repository is now available for anyone who shares our passion for making healthcare accessible and effective for everyone, regardless of economic status. We encourage developers, healthcare professionals, and organizations to contribute, improve, and deploy these tools to help those in need.
 
-**Join us in transforming healthcare accessibility with technology. Your contributions can make a significant impact on the lives of patients worldwide.**
+**Join Us in Transforming Healthcare Accessibility through Technology!**  
+Your contributions can make a meaningful difference in patients' lives worldwide, especially for those in underserved communities.
 
 ### Additional Information
 
-- **YouTube Channel**: For more insights and demos, visit our [YouTube channel](https://www.youtube.com/@SmartHealthTracker).
-- **Contact Us**: For more details or access to source codes, please reach out at **[ehalalworld[at]gmail[dot]com](mailto:ehalalworld[at]gmail[dot]com)**.
-  
-> **Note**: Due to contractual obligations with our medical device contractor, we are unable to share the API used in our app.
+- **YouTube Channel**: Explore our [YouTube channel](https://www.youtube.com/@SmartHealthTracker) for demos, insights, and updates.
+- **Facebook Page**: Follow us on [Facebook](https://www.facebook.com/SmartHealthMonitoring) for community news and support.
+- **LinkedIn Page**: Connect with us on [LinkedIn](https://www.linkedin.com/company/73812045/) to stay updated on our latest advancements and initiatives.
+
+> **Note**: The YouTube channel, Facebook page, and LinkedIn page will be provided to any entity that demonstrates a commitment to continuing this project with the goal of helping those in need. We believe in the power of collaboration to improve healthcare accessibility for disadvantaged populations.
+
+### Contact Us
+
+For further information or access to non-proprietary source code, feel free to reach out at **[ehalalworld[at]gmail[dot]com](mailto:ehalalworld[at]gmail[dot]com)**.
+
+> **Important**: Due to contractual obligations with our medical device contractor, we are unable to share the API used in our application.

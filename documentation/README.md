@@ -19,7 +19,7 @@ This folder contains essential documentation related to the Smart Health project
 5. **[Patient App Operation Steps V1.4](./Patient%20App%20Operation%20Steps%20V1.4.pdf)**  
    This guide is designed for patients using the Smart Health app. It provides instructions on setting up the app, measuring vital signs with the Smart Check device, and managing health data through the app interface.
 
-6. **[Setting Up Smart Health App V1.2](./Setting%20up%20smarthealth%20App%20V1.2.pdf)**  
+6. **[Setting Up Smart Health App V1.2](./Setting_up_smarthealth_App_V1.3.pdf)**  
    A comprehensive setup guide for the Smart Health app. This document includes instructions on installation, initial configuration, and troubleshooting to help users get started with the application.
 
 7. **[Images Folder](./images/README.md)**  
