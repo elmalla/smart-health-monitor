@@ -188,18 +188,14 @@ for managing UI data, and services for background tasks. The MVVM pattern keeps 
 - Plan to implement cloud database storage for larger data sets and remote analysis.
 
 
-## Code File Descriptions
-
-### Brief Description of Each File
-
-1. **MainActivity.kt**: The entry point for the app, handling initial setup and navigation.
+1. **MainActivity.java**: The entry point for the app, handling initial setup and navigation.
 2. **CheckmeMainActivity.kt**: Core activity managing BLE communication and health data interactions.
-3. **LoginActivity.kt**: Manages user login and credential validation.
-4. **RegisterActivity.kt**: Handles user registration logic.
-5. **ForgotPasswordActivity.kt**: Allows users to recover or reset their passwords.
-6. **HomeActivity.kt**: Main user interface for logged-in users, showing navigation options.
-7. **UserProfileActivity.kt**: Manages the user's profile details.
-8. **SplashActivity.kt**: Displays a splash screen while the app initializes.
+3. **LoginActivity.java**: Manages user login and credential validation.
+4. **RegisterActivity.java**: Handles user registration logic.
+5. **ForgotPassActivity.java**: Allows users to recover or reset their passwords.
+6. **HomeActivity.java**: Main user interface for logged-in users, showing navigation options.
+7. **UserProfileActivity.java**: Manages the user's profile details.
+8. **SplashActivity.java**: Displays a splash screen while the app initializes.
 9. **DailyCheckFragment.kt**: Manages daily health checks and the display of relevant data.
 10. **DailyCheckViewModel.kt**: ViewModel for `DailyCheckFragment`, holding and processing daily health data.
 11. **DailyViewAdapter.kt**: Adapter to display daily health data in a RecyclerView.
